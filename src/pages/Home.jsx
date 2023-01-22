@@ -36,7 +36,7 @@ export const Home = () => {
       </div>
       {/* Social */}
       <div className="md:p-20 ">
-        <ul className="lg:w-1/2 2xl:w-4/12 grid grid-cols-1 md:grid-cols-3 gap-y-10 text-xl">
+        <ul className="lg:w-1/2 2xl:w-4/12 2xl:m-auto grid grid-cols-1 md:grid-cols-3 gap-y-10 text-xl">
           <li>
             <a
               href="https://twitter.com/RubenCastroDev"
